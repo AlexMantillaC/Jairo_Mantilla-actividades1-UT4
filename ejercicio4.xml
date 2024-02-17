@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="css/ejercicio4.css"?>
+<pelicula>
+    <actores>
+        <actor>
+            <nombre>Ewan</nombre>
+            <apellido>MC GREGOR</apellido>
+        </actor>
+        <actor>
+            <nombre>Albert</nombre>
+            <apellido>FINNEY</apellido>
+        </actor>
+        <actor>
+            <nombre>Billy</nombre>
+            <apellido>CRUDUP</apellido>
+        </actor>
+        <actor>
+            <nombre>Jessica</nombre>
+            <apellido>LANGE</apellido>
+        </actor>
+    </actores>
+    <director>Una pelicula de TIM BURTON</director>
+    <descripcion>UNA AVENTURA TAN GRANDE COMO LA VIDA MISMA</descripcion>
+</pelicula>

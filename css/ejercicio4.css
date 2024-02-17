@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Protest+Strike&display=swap');
+pelicula {
+    background-image: url("../img/ejercicio4Fondo.jpg");
+    background-repeat: no-repeat;
+    width: 30%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+actores {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    height: 70px;
+}
+actor {
+    display: flex;
+    flex-direction: column;
+}
+director {
+    height: 450px;
+    text-align: center;
+}
+descripcion {
+    font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    text-align: center;
+    
+}

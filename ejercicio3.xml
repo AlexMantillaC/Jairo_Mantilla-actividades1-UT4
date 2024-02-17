@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="css/ejercicio3.css"?>
+<cd>
+    <album>
+        <portada> </portada>
+        <info>
+            <artista>ARTISTA: ABC</artista>
+            <titulo>TITULO: The Collection</titulo>
+            <sello>SELLO: Karrussel International</sello>
+            <referencia>REFERENCIA: 551 631-2</referencia>
+            <anyo>AÑO: 1996</anyo>
+            <pais>PAIS: Germany</pais>
+            <formato>FORMATO: CD - Compilation</formato>
+            <genero>GENERO: Funk / Soul, Electronic</genero>
+            <estilo>ESTILO: Funk Disco, Synth Pop</estilo>
+            <observaciones>OBSERVACIONES: Licenced from Mercury Records Ltd (London)</observaciones>
+        </info>
+    </album>
+    <pistas>
+        <pista>
+            <numero>01</numero>
+            <nombre>Poison Arrow</nombre>
+        </pista>
+        <pista>
+            <numero>02</numero>
+            <nombre>The Look Of Love (Part One)</nombre>
+        </pista>
+        <pista>
+            <numero>03</numero>
+            <nombre>The Night You Murdered Love</nombre>
+        </pista>
+        <pista>
+            <numero>04</numero>
+            <nombre>Tears Are Not Enough</nombre>
+        </pista>
+        <pista>
+            <numero>05</numero>
+            <nombre>Be Near Me</nombre>
+        </pista>
+        <pista>
+            <numero>06</numero>
+            <nombre>I'm In Love With You</nombre>
+        </pista>
+        <pista>
+            <numero>07</numero>
+            <nombre>The Real Thing</nombre>
+        </pista>
+        <pista>
+            <numero>08</numero>
+            <nombre>Love's A Dangerous Language</nombre>
+        </pista>
+        <pista>
+            <numero>09</numero>
+            <nombre>The Greatest Love Of All</nombre>
+        </pista>
+        <pista>
+            <numero>10</numero>
+            <nombre>When Smokey Sings</nombre>
+        </pista>
+        <pista>
+            <numero>11</numero>
+            <nombre>One Better World</nombre>
+        </pista>
+        <pista>
+            <numero>12</numero>
+            <nombre>Vanity Kills</nombre>
+        </pista>
+        <pista>
+            <numero>13</numero>
+            <nombre>Bite The Hand</nombre>
+        </pista>
+        <pista>
+            <numero>14</numero>
+            <nombre>Chicago (Abridged)</nombre>
+        </pista>
+        <pista>
+            <numero>15</numero>
+            <nombre>Minneapolis</nombre>
+        </pista>
+        <pista>
+            <numero>16</numero>
+            <nombre>Think Again</nombre>
+        </pista>
+        <pista>
+            <numero>17</numero>
+            <nombre>Never More Than Now</nombre>
+        </pista>
+        <pista>
+            <numero>18</numero>
+            <nombre>All Of My Heart</nombre>
+        </pista>
+    </pistas>
+</cd>

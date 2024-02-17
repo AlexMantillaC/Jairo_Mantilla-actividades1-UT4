@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo>
+    <jugadores>
+        <jugador>
+            <nombre>Jude</nombre>
+            <apellido>Bellingham</apellido>
+            <posicion>Centrocampista</posicion>
+            <equipoActual>Real Madrid</equipoActual>
+            <entrenador>
+                <nombreEntrenador>Carlo Ancelotti</nombreEntrenador>
+            </entrenador>
+        </jugador>
+        <jugador>
+            <nombre>Vinicius</nombre>
+            <apellido>Júnior</apellido>
+            <posicion>Delantero</posicion>
+            <equipoActual>Real Madrid</equipoActual>
+            <entrenador>
+                <nombreEntrenador>Carlo Ancelotti</nombreEntrenador>
+            </entrenador>
+        </jugador>
+        <jugador>
+            <nombre>Brahim</nombre>
+            <apellido>Diaz</apellido>
+            <posicion>Delantero</posicion>
+            <equipoActual>Real Madrid</equipoActual>
+            <entrenador>
+                <nombreEntrenador>Carlo Ancelotti</nombreEntrenador>
+            </entrenador>
+        </jugador>
+        <jugador>
+            <nombre>Arda</nombre>
+            <apellido>Guler</apellido>
+            <posicion>Centrocampista</posicion>
+            <equipoActual>Real Madrid</equipoActual>
+            <entrenador>
+                <nombreEntrenador>Carlo Ancelotti</nombreEntrenador>
+            </entrenador>
+        </jugador>
+        <jugador>
+            <nombre>Thibaut</nombre>
+            <apellido>Courtois</apellido>
+            <posicion>Guardameta</posicion>
+            <equipoActual>Real Madrid</equipoActual>
+            <entrenador>
+                <nombreEntrenador>Carlo Ancelotti</nombreEntrenador>
+            </entrenador>
+        </jugador>
+    </jugadores>
+</equipo>

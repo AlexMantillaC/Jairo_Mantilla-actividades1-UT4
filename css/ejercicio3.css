@@ -1,0 +1,22 @@
+cd {
+    background-color: rgb(55, 55, 73);
+    color: white;
+    width: 70%;
+    margin: auto;
+}
+album {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+portada {
+    background-image: url("../img/albumPortada.jpg");
+    width:195px;
+    height:185px;
+}
+
+info, pistas {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
